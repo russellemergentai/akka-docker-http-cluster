@@ -1,0 +1,12 @@
+http://localhost:8001/process/request/11
+
+from the sbt shell:
+clean
+compile
+docker:publishLocal
+
+from the location of the docker-compose.yml
+docker-compose up
+docker-compose down
+docker ps
+docker logs [container name]

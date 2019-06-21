@@ -1,0 +1,2 @@
+// plugin to build fat jar in: C:\Users\USER\Downloads\akka-cluster-playground-master\akka-cluster-playground-master\target\scala-2.12
+addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "1.3.15")
